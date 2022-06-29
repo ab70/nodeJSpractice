@@ -46,7 +46,7 @@ function homeControllers(){
 			}
 			catch(err){
 				res.redirect('/')
-				console.log(err);
+				console.log(err)
 			} 
 		}
 	}
